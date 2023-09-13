@@ -8,7 +8,8 @@
 
 # List of materials
 
-0.`./0_Tutorials_of_colab.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dongjaekim-hail/open-source-AI/blob/main/0_Tutorials_of_colab.ipynb)
+0. `./0_Tutorials_of_colab.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dongjaekim-hail/open-source-AI/blob/main/0_Tutorials_of_colab.ipynb)
+1. 다음 시간에~
 
 
 
