@@ -10,7 +10,7 @@
 
 0. `./0_Tutorials_of_colab.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dongjaekim-hail/open-source-AI/blob/main/0_Tutorials_of_colab.ipynb)
 1. `./1_Multilayer_perceptron_(pytorch).ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dongjaekim-hail/open-source-AI/blob/main/1_Multilayer_perceptron_(pytorch).ipynb)
-2. `./2. convolutional neural network (pytorch).ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dongjaekim-hail/open-source-AI/blob/main/2. convolutional neural network (pytorch).ipynb)
+2. `./2_convolutional_neural_network_(pytorch).ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dongjaekim-hail/open-source-AI/blob/main/2_convolutional_neural_network_(pytorch).ipynb)
 
 
 
