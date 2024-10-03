@@ -23,3 +23,5 @@
 - 2023 hail summer study [딥러닝기초](https://hail.dankook.ac.kr/dbc2bc93-08fd-49b0-a92a-4d9251c10928) 수업자료 
 
 - 2023-2 수업자료
+
+- 2024-2 수업자료
